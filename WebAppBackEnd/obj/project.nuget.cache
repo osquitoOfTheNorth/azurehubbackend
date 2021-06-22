@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q6DgQLcq+d9roIQq2p+uFHLi9L45oJToRpRHWRiRNJgMcmHqKct1sMYsHUqJXCAs56o+M5Cj9YFmY2f7V9AVLA==",
+  "success": true,
+  "projectFilePath": "/Users/p12534f/Projects/WebAppBackEnd/WebAppBackEnd/WebAppBackEnd.csproj",
+  "expectedPackageFiles": [
+    "/Users/p12534f/.nuget/packages/microsoft.azure.notificationhubs/4.1.0/microsoft.azure.notificationhubs.4.1.0.nupkg.sha512",
+    "/Users/p12534f/.nuget/packages/microsoft.extensions.caching.abstractions/3.1.8/microsoft.extensions.caching.abstractions.3.1.8.nupkg.sha512",
+    "/Users/p12534f/.nuget/packages/microsoft.extensions.caching.memory/3.1.8/microsoft.extensions.caching.memory.3.1.8.nupkg.sha512",
+    "/Users/p12534f/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.8/microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
+    "/Users/p12534f/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.8/microsoft.extensions.logging.abstractions.3.1.8.nupkg.sha512",
+    "/Users/p12534f/.nuget/packages/microsoft.extensions.options/3.1.8/microsoft.extensions.options.3.1.8.nupkg.sha512",
+    "/Users/p12534f/.nuget/packages/microsoft.extensions.primitives/3.1.8/microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+    "/Users/p12534f/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

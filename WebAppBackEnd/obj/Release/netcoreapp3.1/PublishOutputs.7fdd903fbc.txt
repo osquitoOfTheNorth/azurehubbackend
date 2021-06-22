@@ -1,0 +1,15 @@
+/Users/p12534f/Projects/WebAppBackEnd/WebAppBackEnd/obj/Release/netcoreapp3.1/PubTmp/Out/appsettings.Development.json
+/Users/p12534f/Projects/WebAppBackEnd/WebAppBackEnd/obj/Release/netcoreapp3.1/PubTmp/Out/appsettings.json
+/Users/p12534f/Projects/WebAppBackEnd/WebAppBackEnd/obj/Release/netcoreapp3.1/PubTmp/Out/mono_crash.11a67480d0.0.json
+/Users/p12534f/Projects/WebAppBackEnd/WebAppBackEnd/obj/Release/netcoreapp3.1/PubTmp/Out/WebAppBackEnd.dll
+/Users/p12534f/Projects/WebAppBackEnd/WebAppBackEnd/obj/Release/netcoreapp3.1/PubTmp/Out/WebAppBackEnd.deps.json
+/Users/p12534f/Projects/WebAppBackEnd/WebAppBackEnd/obj/Release/netcoreapp3.1/PubTmp/Out/WebAppBackEnd.runtimeconfig.json
+/Users/p12534f/Projects/WebAppBackEnd/WebAppBackEnd/obj/Release/netcoreapp3.1/PubTmp/Out/WebAppBackEnd.pdb
+/Users/p12534f/Projects/WebAppBackEnd/WebAppBackEnd/obj/Release/netcoreapp3.1/PubTmp/Out/Microsoft.Azure.NotificationHubs.dll
+/Users/p12534f/Projects/WebAppBackEnd/WebAppBackEnd/obj/Release/netcoreapp3.1/PubTmp/Out/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/p12534f/Projects/WebAppBackEnd/WebAppBackEnd/obj/Release/netcoreapp3.1/PubTmp/Out/Microsoft.Extensions.Caching.Memory.dll
+/Users/p12534f/Projects/WebAppBackEnd/WebAppBackEnd/obj/Release/netcoreapp3.1/PubTmp/Out/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/p12534f/Projects/WebAppBackEnd/WebAppBackEnd/obj/Release/netcoreapp3.1/PubTmp/Out/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/p12534f/Projects/WebAppBackEnd/WebAppBackEnd/obj/Release/netcoreapp3.1/PubTmp/Out/Microsoft.Extensions.Options.dll
+/Users/p12534f/Projects/WebAppBackEnd/WebAppBackEnd/obj/Release/netcoreapp3.1/PubTmp/Out/Microsoft.Extensions.Primitives.dll
+/Users/p12534f/Projects/WebAppBackEnd/WebAppBackEnd/obj/Release/netcoreapp3.1/PubTmp/Out/Newtonsoft.Json.dll
