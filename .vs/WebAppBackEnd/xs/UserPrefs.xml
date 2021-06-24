@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{C7AB55F2-C3A9-4783-BE94-70FC6FF8209A}|Default">
+  <MonoDevelop.Ide.ItemProperties.WebAppBackEnd PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebAppBackEnd/Controllers/WeatherForecastController.cs">
+    <Files>
+      <File FileName="WebAppBackEnd/Program.cs" Line="1" Column="1" />
+      <File FileName="WebAppBackEnd/Models/Notifications.cs" />
+      <File FileName="WebAppBackEnd/appsettings.json" />
+      <File FileName="WebAppBackEnd/Properties/PublishProfiles/WebAppBackEndOscarOscarTest - Web Deploy.pubxml" />
+      <File FileName="WebAppBackEnd/Properties/launchSettings.json" />
+      <File FileName="WebAppBackEnd/Startup.cs" />
+      <File FileName="WebAppBackEnd/WeatherForecast.cs" />
+      <File FileName="WebAppBackEnd/Models/Token.cs" />
+      <File FileName="WebAppBackEnd/Models/TokenResponse.cs" />
+      <File FileName="WebAppBackEnd/Models/RegistrationUpdate.cs" />
+      <File FileName="WebAppBackEnd/Models/DeviceRegistationEntity.cs" />
+      <File FileName="WebAppBackEnd/Models/MessageDetails.cs" />
+      <File FileName="WebAppBackEnd/Controllers/WeatherForecastController.cs" Line="130" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebAppBackEnd" expanded="True">
+            <Node name="WebAppBackEnd" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="WeatherForecastController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="PublishProfiles" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
